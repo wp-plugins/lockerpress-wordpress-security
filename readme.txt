@@ -29,7 +29,6 @@ Our full list of features include:
 * Email Notification of Failed Login Attempts
 * Enable HTTP Authentication
 * 1 Click Upgrade
-* WordPress MU Compatibility
 * Enable reCAPTCHA on Login Page
 * Hide errors on user/password logins
 * Disable Right-Click
