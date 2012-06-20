@@ -39,6 +39,8 @@ Our full list of features include:
 * Custom Message for Hacker
 * Change Database Prefix
 
+For more information on LockerPress WordPress Security Plugin please visit us at <a href="https://lockerpress.com" target="_blank">LockerPress</a>. Please also like us at <a href="http://www.facebook.com/lockerpress" target="_blank">Facebook</a> and follow us for latest updates <a href="https://twitter.com/#!/lockerpress" target="_blank">@lockerpress</a>.
+
 == Installation ==
 
 This section describes how to install the plugin and get it working. This Free Version allows installation on unlimited domains.
@@ -74,7 +76,5 @@ Click Install Now, and Activate.
 
 = 1.0 =
 Initial creation of LockerPress WordPress Security Plugin
-
-For more information on LockerPress WordPress Security Plugin please visit us at <a href="https://lockerpress.com" target="_blank">LockerPress</a>. Please also like us at <a href="http://www.facebook.com/lockerpress" target="_blank">Facebook</a> and follow us for latest updates <a href="https://twitter.com/#!/lockerpress" target="_blank">@lockerpress</a>.
 
 `<?php code(); // goes in backticks ?>`
