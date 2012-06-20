@@ -1,8 +1,8 @@
-=== Plugin Name ===
+=== LockerPress - WordPress Security Plugin ===
 Contributors: lockerpress
 Donate link: http://lockerpress.com/
 Tags: wordpress security, secure wordpress, wordpress security plugin, change admin user, custom login URL, http authentication, ban hacker
-Requires at least: 3.3
+Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.0
 License: GPLv2 or later
