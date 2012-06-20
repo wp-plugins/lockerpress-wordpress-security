@@ -1,24 +1,24 @@
 === LockerPress - WordPress Security Plugin ===
 Contributors: lockerpress
 Donate link: http://lockerpress.com/
-Tags: wordpress security, secure wordpress, wordpress security plugin, change admin user, custom login URL, http authentication, ban hacker
+Tags: wordpress security, secure wordpress, wordpress security plugin, security, secure, htaccess, plugin, change database, database name, email notification, hack, hackers, ban, custom login, admin, change admin user, custom login URL, http authentication, ban hacker, lockerpress
 Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Custom Login URL, Change Admin User, Custom Hack/Ban Settings, Change Database Prefix & much more to give your Blog a peace of mind.
+WordPress Security Plugin to protect you from Hackers. Easily create Custom Login URL, Change Admin User, Custom Hack/Ban Settings, & much more.
 
 == Description ==
 
-LockerPress takes focus on WordPress Security and being able to offer solutions to the community - whether you're a big site
+LockerPress WordPress Security protects your WordPress site from Hackers by offering a variety of solutions that allows you to customize areas of WordPress that normally are not easy to manipulate. We takes focus on WordPress Security and being able to offer solutions to the community - whether you're a big site
 or a small one.
 
 It's very unfortunate that there are Hackers and Bots trying to attack websites and retrieve sensitive information - they also
 try to destroy the contents of your website.
 
-Our Security plugin provides you many great security settings and options that will make your WordPress site safer. 
+Our WordPress Security plugin provides you many great security settings and options that will make your WordPress website safer. 
 
 Our full list of features include:
 
@@ -44,7 +44,7 @@ Our full list of features include:
 This section describes how to install the plugin and get it working. This Free Version allows installation on unlimited domains.
 
 FTP:
-1. Unzip lockerpress.zip
+1. Unzip lockerpress-wordpress-security.zip
 2. Upload lockerpress folder to your /wp-content/plugins folder
 3. Login to /wp-admin
 4. On the sidebar, click Plugins
@@ -55,7 +55,7 @@ Upload Zip:
 1. Login to /wp-admin
 2. On the sidebar, mouseover Plugins and click Add New.
 3. Click Upload on the very top.
-Click 'Choose File' and click on the lockerpress.zip that you downloaded.
+Click 'Choose File' and click on the lockerpress-worpdress-security.zip that you downloaded.
 Click Install Now, and Activate.
 
 == Changelog ==
@@ -68,6 +68,6 @@ Click Install Now, and Activate.
 = 1.0 =
 Initial creation of LockerPress WordPress Security Plugin
 
-Here's a link to [LockerPress](http://lockerpress.com/ "LockerPress WordPress Security").
+For more information on LockerPress WordPress Security Plugin please visit us at <a href="https://lockerpress.com" target="_blank">LockerPress</a>. Please also like us at <a href="http://www.facebook.com/lockerpress" target="_blank">Facebook</a> and follow us for latest updates <a href="https://twitter.com/#!/lockerpress" target="_blank">@lockerpress</a>.
 
 `<?php code(); // goes in backticks ?>`
