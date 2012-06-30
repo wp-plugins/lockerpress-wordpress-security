@@ -5,7 +5,7 @@ wp_enqueue_script('jquery-ui-slider');
 <div class="wrap">
   <div class="postbox-container" style="width:70%">
     <div id="icon-options-general" class="icon32"></div>
-    <h2>WP Secure</h2>
+    <h2>LockerPress WordPress Security</h2>
     <br />
 
     <?php if( isset($_GET['settings-updated']) ) { ?>
